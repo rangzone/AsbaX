@@ -2,7 +2,7 @@
 Free to Watch Millions Movies (Box Office, Popular, Trending) & TV Shows (series:seasons,episode) with AsbaX app - the best movie finder.
 AsbaX is Movie finder app search engine to find your favorit movies based on TMDB API, App will auto-update for new movies..so you will not miss them.This product uses the TMDb API but is not endorsed or certified by TMDb.
 
-<img scr="https://i.ibb.co/8sXf6pC/1024x500.png" width="500" height="250" />
+<img src="https://i.ibb.co/8sXf6pC/1024x500.png" width="500" height="250" />
 ---------- LEGAL NOTICE AND DMCA ----------------
 
 No video files are hosted on our app or owned by us
