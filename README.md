@@ -4,7 +4,7 @@ AsbaX is Movie finder app search engine to find your favorit movies based on TMD
 
 <img src="https://i.ibb.co/8sXf6pC/1024x500.png" width="500" height="250" />
 
-<a href="https://play.google.com/store/apps/details?id=asbax.moviefinder.app" target="_blank"><img alt="Download Keep Screen On apk android app" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
+<a href="https://play.google.com/store/apps/details?id=asbax.moviefinder.app" target="_blank"><img alt="watch movie free apk android app" src="https://i.ibb.co/nnQBHcj/google-play-badge.png" width="323" height="125"></a>
 
 ---------- LEGAL NOTICE AND DMCA ----------------
 
